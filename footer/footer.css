@@ -1,0 +1,19 @@
+.links{
+    color: rgb(96, 96, 96);
+}
+
+.links:hover{
+    color: white;
+}
+
+.links:active{
+    opacity: 0.69;
+}
+
+.title{
+    font-size: large;
+}
+
+.tag{
+    font-size: x-large;
+}
